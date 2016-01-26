@@ -1,0 +1,19 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "Lab 3",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsh9907/lab3.git"
+  },
+  "author": "Sunghie Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsh9907/lab3/issues"
+  },
+  "homepage": "https://github.com/lsh9907/lab3#readme"
+}
